@@ -5,4 +5,4 @@ The application will be implemented in php and mysql and whatever other technolo
 
 Language: Greek (Ελληνικά)
 
-Copyright © 2021 Ioannis Kyriazis, Apostolos Mamoulellis, Panagiotis Papadopoulos - All Rights Reserved
+Copyright © 2021 Ioannis Kyriazis - All Rights Reserved
